@@ -1,0 +1,13 @@
+<form class="form-box" [formGroup]="formaddcustomer" (ngSubmit)="addCustomer()">
+    <label for="form">Add Customer</label><br>
+  <input type="text" placeholder="name" formControlName="name">
+  <input type="text" placeholder="phone" formControlName="phone">
+  <input type="text" placeholder="address" formControlName="address">
+  <select type="text" placeholder="membership" formControlName="membership">
+    <option></option>
+    <option>Basic</option>
+    <option>Vip</option>
+    <option>Pro</option>
+    </select>
+  <input type="submit" placeholder="name" value="Add Customer">
+</form>

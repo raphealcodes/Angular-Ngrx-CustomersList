@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "id": "d07ef5f8-96b3-4524-a1ce-ab7724ff231a",
+      "name": "lekan",
+      "phone": "22992292",
+      "address": "kogi",
+      "membership": "Pro",
+      "vote": 0
+    },
+    {
+      "id": "d5a3b854-7978-4c2c-b85c-bcab767a9d34",
+      "name": "adeyinka",
+      "phone": "love",
+      "address": "ggg",
+      "membership": "Vip"
+    }
+  ]
+}

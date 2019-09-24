@@ -1,0 +1,6 @@
+form{margin: 80px 20px 20px 127px;}
+input{margin: 3px; padding: 5px;}
+input[type=submit]{border: none; height: 30px;width:110px; background-color: rgb(72, 133, 247); color:rgb(204, 196, 196);
+cursor: pointer;}
+select{padding: 5px; margin: 3px; width:156px; cursor: pointer;}
+label{text-align:left; margin-bottom: 8px;font-size: 26px; font-weight:bold;}
